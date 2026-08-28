@@ -1,0 +1,6 @@
+Give me a 3-4 line summary of the paper
+What does the literature review section of this paper say?
+What is the methodology used in this paper?
+What are the paper's limitations, and how can they be addressed?
+Which method or algorithm is used in this paper?
+What is your opinion on this paper?
